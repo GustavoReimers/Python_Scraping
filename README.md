@@ -1,8 +1,4 @@
-.. image:: https://badge.fury.io/py/hockey-scraper.svg
-   :target: https://badge.fury.io/py/hockey-scraper
-.. image:: https://readthedocs.org/projects/hockey-scraper/badge/?version=latest
-   :target: https://readthedocs.org/projects/hockey-scraper/?badge=latest
-   :alt: Documentation Status
+
 
 
 Hockey-Scraper
